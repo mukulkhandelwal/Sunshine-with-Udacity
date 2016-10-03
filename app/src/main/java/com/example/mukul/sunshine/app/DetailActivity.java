@@ -6,7 +6,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import com.example.mukul.sunshine.app.*;
-
+impot java.util.*;
 import com.example.mukul.sunshine.app.*;
 
 public class DetailActivity extends ActionBarActivity {
